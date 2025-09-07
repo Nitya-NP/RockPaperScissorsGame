@@ -19,7 +19,7 @@ Features
 How to Run
 Option 1: Run the EXE
 1. Go to the `bin/Debug/` (or `bin/Release/`) folder.
-2. Double-click `Rock_Paper_Scissors.exe` to start the game.  
+2. Double-click `Rock Paper Scissors.exe` to start the game.  
    *(Windows only)*
 Option 2: Run from Source
 1. Download or clone this repository.
