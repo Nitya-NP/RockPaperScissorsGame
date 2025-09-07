@@ -1,4 +1,4 @@
-# RockPaperScissorsGame
+# RockPaperScissorsGame - Nitya Patel
 
 I built this project in Grade 11.   
 It’s a simple Rock-Paper-Scissors game built with C# and Windows Forms.  
