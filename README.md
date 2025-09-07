@@ -1,12 +1,11 @@
 # RockPaperScissorsGame - Nitya Patel
-
-I built this project in Grade 11.   
+ 
 It’s a simple Rock-Paper-Scissors game built with C# and Windows Forms.  
-The game lets you play against the computer with sound effects, images, and score tracking.
+The game lets you play against the computer with sound effects, images, and score tracking. I built this project in Grade 11. 
 
 ---
 
-Features
+# Features
 - Player vs Computer gameplay
 - Randomized computer moves
 - Tracks Wins, Losses, and Ties
@@ -16,7 +15,7 @@ Features
 
 ---
 
-How to Run
+# How to Run
 - Go to the bin/Debug/folder.
 - Double-click Rock Paper Scissors.exe to start the game. (Windows only)
 
